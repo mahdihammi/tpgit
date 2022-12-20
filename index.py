@@ -1,3 +1,3 @@
 print("hello")
 
-print("modif (modification of master)")
+print("modif (modification conflict) ")
